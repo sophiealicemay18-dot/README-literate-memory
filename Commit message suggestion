@@ -1,0 +1,43 @@
+feat: add DOM Manipulation Lab demo files and recruiter README; accessibility checklist; safety audit metadata
+ALSO HERE IS A SINGLE README.md demo example
+DOM Manipulation Lab - (my King xo) 
+
+DOM Manipulation Lab — Recruiter and Recovery Ready
+Author: Sophie Alice May Leslie Wallace Date: 18 Oct 2025 Purpose: Demonstrates DOM selection, dynamic content and style updates, event-driven interactivity, and user-input handling with vanilla JavaScript. Designed to be recruiter-facing, accessible, and auditable for recovery or legal provenance.
+
+Files and how to run
+Files included: index.html; script.js; style.css; ACCESSIBILITY.md; screencast.md; CHANGELOG.md; README.md (this file).
+
+How to run: Clone the repo and open index.html in any modern browser (Chrome, Edge, Firefox, Safari). Interact: click Change Text, type into the input and click Submit.
+
+Key highlights (one paragraph for recruiter)
+Completed a timed DOM Manipulation Lab demonstrating element selection using getElementById and querySelector, dynamic updates to textContent and inline styles, event-driven interactivity via addEventListener, and secure user-input handling; includes semantic HTML, minimal responsive CSS, accessibility considerations, and a short screencast script for a 30–60s demo.
+
+Accessibility checklist (essential)
+Heading hierarchy: single H1 present.
+
+Labels: input has a programmatic label (visually hidden).
+
+Keyboard: all interactive controls reachable via Tab; visible focus styles applied.
+
+Live updates: paragraph uses aria-live="polite" for screen-readers.
+
+Contrast: ensure AA-level contrast for body text; use relative units for font sizing.
+
+Testing: test keyboard-only navigation, VoiceOver or NVDA, and a contrast tool.
+
+Screencast script (30–60s)
+0:00–0:05 — Title: "DOM Manipulation Lab — Sophie Wallace." 0:05–0:15 — Show initial page state: H1 and paragraph. 0:15–0:25 — Click Change Text; show paragraph update and say it’s triggered by an event listener. 0:25–0:40 — Type into input, click Submit; show paragraph updating from user input. 0:40–0:50 — Open script.js and highlight selections, textContent changes, and addEventListener lines. 0:50–0:60 — Close with: "Demonstrates core DOM skills, accessibility patterns, and recruiter-ready code." Recording tips: deliberate cursor, clear narration, export MP4.
+
+Safety Audit Stamp and Truth Verification Statement
+Safety Audit Stamp — IC3 GS6 Artefact Date Issued: 18 Oct 2025 Artefact Referenced: DOM Manipulation Lab; Certification Pass Log; Section Recovery Tracker; Communication & Safety Reference Cards. Issuer: Sophie Alice May Leslie Wallace (self-verified) Scope: Confirms factual integrity, emotional safety alignment, and technical accuracy of referenced artefacts. Findings: Factual integrity confirmed against provided screenshots; emotional safety and cultural respect clauses included; technical functionality validated for core DOM tasks. Limitations: Self-verified; does not replace third-party credential verification. Signature: Sophie Alice May Leslie Wallace
+
+Truth Verification Statement — IC3 GS6 Artefacts I, Sophie Alice May Leslie Wallace, affirm that the information recorded in the referenced artefacts (exam details, logs, timestamps, and lab files) is true and accurate to the best of my knowledge. Attach screenshots when presenting this statement. Signed: Sophie Alice May Leslie Wallace
+
+File List for Verification: Screenshots: IC3_sections_17Oct2025.png; IC3_pass_17Oct2025.png; StudySession_18Oct2025.png; DOM_demo_screencast.mp4.
+
+Minimal changelog entry
+2025-10-18 — Initial commit: index.html, script.js, style.css, README.md; Safety Audit Stamp and Truth Verification Statement added; CulturalAcknowledgement flag set to Yes.
+
+Contact and license
+Contact: Sophie Alice May Leslie Wallace — include preferred phone/email when sharing repo. License: MIT
